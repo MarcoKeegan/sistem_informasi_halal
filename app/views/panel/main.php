@@ -1,6 +1,6 @@
 <main>
     <div class="container-fluid px-4">
-        <h1 class="mt-4">Penilaian SJH</h1>
+        <h1 class="mt-4">Penilaian Sistem Jaminan Halal</h1>
         <!-- <div class="card mb-4">
             <div class="card-body">
                 
